@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teams-react/static/css/main.bfe8fec3.css",
+    "main.js": "/teams-react/static/js/main.747f21bf.js",
+    "static/media/maleProfile.jpg": "/teams-react/static/media/maleProfile.657c4196488ead649e93.jpg",
+    "static/media/femaleProfile.jpg": "/teams-react/static/media/femaleProfile.48d77dc2519df08d5cc5.jpg",
+    "index.html": "/teams-react/index.html",
+    "main.bfe8fec3.css.map": "/teams-react/static/css/main.bfe8fec3.css.map",
+    "main.747f21bf.js.map": "/teams-react/static/js/main.747f21bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfe8fec3.css",
+    "static/js/main.747f21bf.js"
+  ]
+}
